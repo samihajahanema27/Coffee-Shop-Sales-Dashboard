@@ -47,10 +47,13 @@ The dashboard helps understand business performance, customer behavior, and prod
 ## 📂 Project Structure
 
 coffee-shop-sales-dashboard/
+
 │
 └── coffee_shop_sales.xlsx
+
 │
 └── Dashboard_coffee_shop.png
+
 │
 └── README.md
 
@@ -64,6 +67,9 @@ coffee-shop-sales-dashboard/
 4. Explore the charts to understand trends and insights  
 
 ---
+
+## 📸 Dashboard Preview  
+![Dashboard Preview](Dashboard_coffee_shop.png)
 
 ## 🙏 Acknowledgment
 This project was inspired by the following tutorial:  
